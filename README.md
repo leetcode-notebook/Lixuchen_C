@@ -1,2 +1,10 @@
 # Lixuchen_C
-leetcode_C
+```
+#include <stdio.h>
+
+int main()
+{
+  printf("Hello world !");
+}
+```
+
